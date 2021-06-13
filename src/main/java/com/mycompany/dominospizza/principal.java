@@ -26,7 +26,7 @@ public class principal extends javax.swing.JFrame {
     ArrayList<admin>benito = new ArrayList<admin>();
     ArrayList<admin>jcortez = new ArrayList<admin>();
     ArrayList<orden>jala = new ArrayList<orden>();
-
+String n1;
     String suc;
     String pt;
     String p;
